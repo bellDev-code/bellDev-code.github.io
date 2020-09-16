@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Dummy Post 6"
-date:   2015-04-19 08:43:59
-author: Ben Centra
+title: "Dummy Post 6"
+date: 2015-04-19 08:43:59
+author: BellDev-code
 categories: Dummy
 tags: lorem ipsum
 ---
