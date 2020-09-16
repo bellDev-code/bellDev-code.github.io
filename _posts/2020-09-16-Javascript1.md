@@ -1,24 +1,29 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Javascript??"
 date: 2015-04-18T14:25:52-05:00
 author: BellDev-code
-categories: Jekyll
-tags: jekyll welcome
+categories: Javascript
+tags: js vanilajs
 cover: "/assets/instacode.png"
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Javascript?
 
-## Adding New Posts
+JavaScript는 웹 페이지의 스크립트 언어로서 제일 유명하지만 Node.js, Apache CouchDB, Adobe Acrobat처럼 많은 비 브라우저 환경에서도 사용하고 있습니다. 웹 페이지를 잘 다루기 위해서는 javascript의 실력이 곧 웹 페이지 제작의 기본이라고 생각합니다. 웹 페이지를 제작하기 위해서 자바스크립트에 대한 많은 공부 시간이 필요하다고 생각합니다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### 사전 지식으로는 뭐가 필요할까요?
 
-### Tags and Categories
+Javascript를 공부하기 위해서는 `Html`, `CSS`의 기초지식이 필요하다고 생각합니다.
+또한, 조금의 `프로그래밍 경험`이 있으면 매우 좋습니다!
 
-If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the [jekyll-archive][jekyll-archive] gem.
+### Javascript는 무엇인가요??
 
-### Cover Images
+Javascript는 크로스-플랫폼, 객체지향 스크립트 언어입니다. `작고 가벼운` 장점을 가지고 있습니다.
+기존의 웹 사이트를 html과 css만으로는 정적인 웹 사이트를 만드는데, Javascript를 배움으로서 웹
+페이지를 `동적`으로 만들 수 있는 장점이 있습니다!
+
+<!-- ### Cover Images
 
 To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
 
@@ -30,12 +35,12 @@ Use the [Liquid][liquid] `{% raw %}{% highlight <language> %}{% endraw %}` tag t
 
 For instance, this template...
 {% highlight html %}
-{% raw %}{% highlight javascript %}  
-function demo(string, times) {  
- for (var i = 0; i < times; i++) {  
- console.log(string);  
- }  
-}  
+{% raw %}{% highlight javascript %}
+function demo(string, times) {
+ for (var i = 0; i < times; i++) {
+ console.log(string);
+ }
+}
 demo("hello, world!", 10);
 {% endhighlight %}{% endraw %}
 {% endhighlight %}
@@ -63,7 +68,7 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
 
 For more information, check out the [Lightbox][lightbox] website.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. -->
 
 [jekyll]: http://jekyllrb.com
 [jekyll-gh]: https://github.com/jekyll/jekyll

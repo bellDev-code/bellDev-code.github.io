@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "Java, Javascript?"
 date: 2015-04-20 08:43:59
 author: BellDev-code
-categories: Jekyll
+categories: Javascript
 tags: jekyll welcome
 cover: "/assets/instacode.png"
 ---
@@ -65,7 +65,7 @@ Lightbox has been enabled for images. To create the link that'll launch the ligh
   <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
 </a>
 
-For more information, check out the [Lightbox][lightbox] website.
+<!-- For more information, check out the [Lightbox][lightbox] website. -->
 
 ### Tooltips
 
@@ -92,7 +92,9 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [highlight]: https://highlightjs.org/
-[lightbox]: http://lokeshdhakar.com/projects/lightbox2/
+
+<!-- [lightbox]: http://lokeshdhakar.com/projects/lightbox2/ -->
+
 [jekyll-archive]: https://github.com/jekyll/jekyll-archives
 [liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
 
