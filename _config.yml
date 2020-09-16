@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: BellDev-code Blog
+title: BellDev-code의 코딩 블로그
 subtitle: "비전공자의 개발 공부 블로그"
 email: fujifilm0517@naver.com
 name: BellDev
