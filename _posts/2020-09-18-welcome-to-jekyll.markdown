@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Java, Javascript?"
-date: 2015-04-20 08:43:59
+date: 2020-09-18 T18:25:52-05:00
 author: BellDev-code
 categories: Javascript
 tags: jekyll welcome

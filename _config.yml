@@ -55,10 +55,15 @@ jekyll-archives:
 # Category descriptions (for archive pages)
 descriptions:
   - cat: html
-    desc: "Posts describing Jekyll setup techniques."
+    desc: ""
+
+  - cat: CSS
+    desc: ""
 
   - cat: Javascript
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+    desc: ""
+
+    
 
 # Social icons and sharing options
 #

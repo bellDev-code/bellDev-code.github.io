@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Javascript??"
-date: 2015-04-18 T14:25:52-05:00
+date: 2020-09-19 T14:25:52-05:00
 author: BellDev-code
 categories: Javascript
 tags: js vanilajs
