@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "Java, Javascript?"
-date: 2020-09-18 T18:25:52-05:00
-author: BellDev-code
-categories: Javascript
-tags: jekyll welcome
-cover: "/assets/instacode.png"
+# layout: post
+# title: "Java, Javascript?"
+# date: 2020-09-18 T18:25:52-05:00
+# author: BellDev-code
+# categories: Javascript
+# tags: jekyll welcome
+# cover: "/assets/instacode.png"
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
